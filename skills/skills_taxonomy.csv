@@ -1,0 +1,51 @@
+category,skill
+Programming,python
+Programming,java
+Programming,javascript
+Programming,typescript
+Programming,c++
+Programming,go
+Programming,rust
+Programming,sql
+Programming,bash
+Data/ML,pandas
+Data/ML,numpy
+Data/ML,scikit-learn
+Data/ML,tensorflow
+Data/ML,pytorch
+Data/ML,nlp
+Data/ML,computer vision
+Data/ML,statistics
+Data/ML,airflow
+DevOps,docker
+DevOps,kubernetes
+DevOps,aws
+DevOps,gcp
+DevOps,azure
+DevOps,terraform
+DevOps,ci/cd
+DevOps,linux
+DevOps,prometheus
+DevOps,grafana
+QA/Automation,selenium
+QA/Automation,pytest
+QA/Automation,cypress
+QA/Automation,playwright
+QA/Automation,api testing
+QA/Automation,load testing
+QA/Automation,monitoring
+QA/Automation,telemetry
+Web,react
+Web,node.js
+Web,next.js
+Web,express
+Web,rest api
+Web,graphql
+Web,fastapi
+Web,flask
+Product,roadmapping
+Product,user research
+Product,kpis
+Product,a/b testing
+Product,stakeholder management
+Product,experiment design

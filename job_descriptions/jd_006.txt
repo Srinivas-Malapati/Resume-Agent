@@ -1,0 +1,3 @@
+Data Scientist, Mid
+
+Collaborate with cross-functional teams. Build reliable systems and contribute to reviews and documentation. Required: Python, pandas, statistics, scikit-learn, experiment design. Nice: NLP, PyTorch, A/B testing.
